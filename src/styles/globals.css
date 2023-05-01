@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.selected-row {
+  background-color: #bb0f0f;
+  cursor: pointer;
+}
